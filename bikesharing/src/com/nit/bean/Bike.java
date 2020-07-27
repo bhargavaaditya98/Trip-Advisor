@@ -1,5 +1,6 @@
 package com.nit.bean;
 
+
 public class Bike {
 private String bikeNo;
 private String bikeModel;
